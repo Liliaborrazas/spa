@@ -72,6 +72,12 @@ export class HeroesService {
         return this.heroes[idx];
 
     }
+
+    buscarHeroes( termino:string ){
+        
+
+
+    }
 }
 
 export interface Heroe{
